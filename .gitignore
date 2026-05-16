@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+.venv/
+venv/
+
+# VSCode
+.vscode/
+
+# Wireshark captures
+*.pcap
+*.pcapng
+
+# Logs
+*.log
